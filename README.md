@@ -1,2 +1,2 @@
 # Arduino_Projects
-Documentation of previously done arduino projects
+Documentation of previously done arduino based projects
