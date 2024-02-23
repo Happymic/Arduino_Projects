@@ -19,8 +19,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "你的wifi名称";		//注意选择2.4G频段
-const char* password = "你的wifi密码";
+const char* ssid = "wifi名称";		//选2.4G频段
+const char* password = "wifi密码";
 
 void startCameraServer();
 
